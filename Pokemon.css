@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+#namePok, #abilitiesPok, #movesPok {
+    background-color:tomato;
+    color: white;
+    font-size: 20px;
+}
+
+#pokemonsDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#PokId {
+    border-color: blue;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+
+img {
+    width: 300px;
+}
